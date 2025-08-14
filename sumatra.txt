@@ -1,0 +1,147 @@
+# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-6.html
+
+CheckForUpdates = true
+CustomScreenDPI = 0
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+EnableTeXEnhancements = false
+EscToExit = false
+FullPathInTitle = false
+LazyLoading = true
+MainWindowBackground = #80fff200
+NoHomeTab = false
+ReloadModifiedDocuments = true
+RememberOpenedFiles = true
+RememberStatePerDocument = true
+RestoreSession = true
+ReuseInstance = true
+ShowMenubar = true
+ShowToolbar = true
+ShowFavorites = false
+ShowToc = true
+ShowLinks = false
+ShowStartPage = true
+SidebarDx = 347
+SmoothScroll = false
+TabWidth = 300
+Theme = Light
+TocDy = 0
+ToolbarSize = 18
+TreeFontName = automatic
+TreeFontSize = 0
+UIFontSize = 0
+UseSysColors = false
+UseTabs = true
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	InvertColors = false
+	HideScrollbars = false
+]
+
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+
+ChmUI [
+	UseFixedPageUI = false
+]
+
+Annotations [
+	HighlightColor = #ffff00
+	UnderlineColor = #00ff00
+	SquigglyColor = #ff00ff
+	StrikeOutColor = #ff0000
+	FreeTextColor = 
+	FreeTextSize = 12
+	FreeTextBorderWidth = 1
+	TextIconColor = 
+	TextIconType = 
+	DefaultAuthor = 
+]
+
+ExternalViewers [
+]
+
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+
+SelectionHandlers [
+]
+
+Shortcuts [
+]
+
+# You're not expected to change those manually
+UiLanguage = ru
+WindowState = 2
+WindowPos = -14 0 830 1050
+FileStates [
+]
+SessionData [
+	[
+		TabStates [
+			[
+				FilePath = D:\Books\1. Программирование и ОС\CMS & Frameworks & Libraries\Создание фронтенд-фреймворка с нуля 2025\Создание фронтенд-фреймворка с нуля 2025.pdf
+				DisplayMode = automatic
+				PageNo = 1
+				Zoom = fit page
+				Rotation = 0
+				ScrollPos = 0 0
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Books\5. Для жизни\Личный путь к свободе. Алкоголизм 2020.pdf
+				DisplayMode = automatic
+				PageNo = 1
+				Zoom = fit page
+				Rotation = 0
+				ScrollPos = 0 0
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Books\Бухгалтерский учет, финансы, экономика\1C\Программирование и разработка\Программировать в 1С за 11 шагов + Задачник 3rd 2024\Программировать в 1С за 11 шагов + Задачник 3rd 2024.pdf
+				DisplayMode = automatic
+				PageNo = 1
+				Zoom = fit page
+				Rotation = 0
+				ScrollPos = 0 0
+				ShowToc = false
+			]
+			[
+				FilePath = D:\Books\Бухгалтерский учет, финансы, экономика\1C\Программирование и разработка\Радченко Максим\1С Программирование для начинающих 2017\1С Программирование для начинающих. Детям и родителям, менеджерам и руководителям. Разработка в системе 1С 2017.pdf
+				DisplayMode = continuous
+				PageNo = 142
+				Zoom = fit width
+				Rotation = 0
+				ScrollPos = -1 263.303
+				ShowToc = true
+			]
+		]
+		TabIndex = 5
+		WindowState = 2
+		WindowPos = -14 0 830 1050
+		SidebarDx = 347
+	]
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 762
+
+# Settings below are not recognized by the current version
+2 # For documentation, see https = //www.sumatrapdfreader.org/settings/settings3-6.html
